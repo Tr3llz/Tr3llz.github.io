@@ -1,6 +1,6 @@
 body {
-    background: rgba(63, 54, 54, 0.382);
-    color: rgb(0, 0, 0);
+    background: rgba(238, 237, 237, 0.382);
+    color: rgb(6, 0, 0);
     padding: 10px;
     font-family: arial;
 }
@@ -19,7 +19,7 @@ nav {
 h1 {
     display: flex;
     align-items: center;
-    color: white;
+    color: rgb(67, 186, 31);
     flex: 1;
     margin: 0;
 }
@@ -32,12 +32,12 @@ h1 {
 }
 a {
     text-decoration: none;
-    color: #ff0000;
+    color: #73ff00;
 }
 
 /* main container area beneath menu */
 main {
-    background: rgb(255, 255, 255);
+    background: rgb(59, 230, 44);
     display: flex;
 }
 .sidebar {
@@ -54,7 +54,7 @@ main {
 
 /* portfolio styles */
 #interests {
-    border: 4px rgb(182, 185, 128) ridge;
+    border: 4px rgb(29, 64, 172) ridge;
     padding: 8px;
 }
 h2, h3 {
